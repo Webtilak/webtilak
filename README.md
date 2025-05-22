@@ -53,10 +53,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" height="40" alt="EJS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Ejs-logo.png" height="40" alt="EJS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
 </div>
+
 
 
 ###
