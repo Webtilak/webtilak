@@ -63,11 +63,18 @@
 <h3 align="left">🔥 My GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Webtilak&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&locale=en" height="200" alt="GitHub Streak"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Webtilak&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="GitHub Streak"/>
+
   <br><br>
+
+  <!-- GitHub Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Webtilak&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false" height="200" alt="GitHub Stats"/>
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Webtilak&layout=compact&theme=dracula&langs_count=6&hide_border=false" height="200" alt="Top Languages"/>
 </div>
+
 
 ###
 
